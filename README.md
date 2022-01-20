@@ -1,9 +1,9 @@
-# Projekt transformacja, czyli Matrix - poznaj reguły gry
+# Shoe prices analysis and prediction
 
-Tutaj pojawią się wykonane przeze mnie zadania z 5 dniowego projektu 'Transformacja' organizowanego przez DataWorkshop (https://dataworkshop.eu/)
+Data analysis (data visualisations) and machine learning models (decision trees, random forests) on the e-commerce dataset.
+Performed on Google Colaboratory notebooks, which I linked to my GitHub account.
+Dataset provided by Datafiniti's Product Database, accessed via data.world site https://data.world/datafiniti/mens-shoe-prices.
 
-- stworzenie repozytorium na GitHub
-- konfiguracja zapisu notebooków Google Colaboratory na Google Drive, połączenie z poziomu Google Colab z kontem GitHub (ze względów bezpieczeństwa nieudostępnione)
-- wczytanie zbioru danych, pierwsze wizualizacje
-- analiza danych - drzewo decyzyjne
-- analiza danych - predykcja lasami losowymi.
+
+
+Project idea from one of DataWorkshop's (https://dataworkshop.eu/) course, which I finished.
