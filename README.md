@@ -1,7 +1,7 @@
 # Shoe prices analysis and prediction
 
 Data analysis (data visualisations) and machine learning models (decision trees, random forests) on the e-commerce dataset.\
-Performed on Google Colaboratory notebooks, which I linked to my GitHub account.\
+Performed on Google Colaboratory notebooks (with the use of Python 3 and many specialistic libraries), which I linked to my GitHub account.\
 Dataset provided by Datafiniti's Product Database, accessed via data.world site https://data.world/datafiniti/mens-shoe-prices.
 
 
